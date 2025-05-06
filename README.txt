@@ -6,4 +6,4 @@ study_log/
 ├── log_manager.py        # Handles saving/loading logs
 ├── logs/                 # Folder where log data will be stored
 ├── assets/               # (Empty for now - for future music/images)
-├── requirements.txt      # List of required Python packages
+
